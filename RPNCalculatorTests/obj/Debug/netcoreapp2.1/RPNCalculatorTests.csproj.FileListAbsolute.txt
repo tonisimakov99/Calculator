@@ -1,0 +1,17 @@
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\bin\Debug\netcoreapp2.1\RPNCalculatorTests.deps.json
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\bin\Debug\netcoreapp2.1\RPNCalculatorTests.runtimeconfig.json
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\bin\Debug\netcoreapp2.1\RPNCalculatorTests.runtimeconfig.dev.json
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\bin\Debug\netcoreapp2.1\RPNCalculatorTests.dll
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\bin\Debug\netcoreapp2.1\RPNCalculatorTests.pdb
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\obj\Debug\netcoreapp2.1\RPNCalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\obj\Debug\netcoreapp2.1\RPNCalculatorTests.AssemblyInfoInputs.cache
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\obj\Debug\netcoreapp2.1\RPNCalculatorTests.AssemblyInfo.cs
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\obj\Debug\netcoreapp2.1\RPNCalculatorTests.csproj.CopyComplete
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\obj\Debug\netcoreapp2.1\RPNCalculatorTests.dll
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\obj\Debug\netcoreapp2.1\RPNCalculatorTests.pdb
+C:\Users\Антон\source\repos\Calculator\RPNCalculatorTests\obj\Debug\netcoreapp2.1\RPNCalculatorTests.csprojAssemblyReference.cache

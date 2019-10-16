@@ -1,0 +1,17 @@
+C:\Users\Антон\source\repos\Calculator\RPN\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Антон\source\repos\Calculator\RPN\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Антон\source\repos\Calculator\RPN\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Антон\source\repos\Calculator\RPN\bin\Debug\netcoreapp2.1\RPNParserTests.deps.json
+C:\Users\Антон\source\repos\Calculator\RPN\bin\Debug\netcoreapp2.1\RPNParserTests.runtimeconfig.json
+C:\Users\Антон\source\repos\Calculator\RPN\bin\Debug\netcoreapp2.1\RPNParserTests.runtimeconfig.dev.json
+C:\Users\Антон\source\repos\Calculator\RPN\bin\Debug\netcoreapp2.1\RPNParserTests.dll
+C:\Users\Антон\source\repos\Calculator\RPN\bin\Debug\netcoreapp2.1\RPNParserTests.pdb
+C:\Users\Антон\source\repos\Calculator\RPN\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\Антон\source\repos\Calculator\RPN\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\Антон\source\repos\Calculator\RPN\obj\Debug\netcoreapp2.1\RPNParserTests.csprojAssemblyReference.cache
+C:\Users\Антон\source\repos\Calculator\RPN\obj\Debug\netcoreapp2.1\RPNParserTests.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\Calculator\RPN\obj\Debug\netcoreapp2.1\RPNParserTests.AssemblyInfoInputs.cache
+C:\Users\Антон\source\repos\Calculator\RPN\obj\Debug\netcoreapp2.1\RPNParserTests.AssemblyInfo.cs
+C:\Users\Антон\source\repos\Calculator\RPN\obj\Debug\netcoreapp2.1\RPNParserTests.csproj.CopyComplete
+C:\Users\Антон\source\repos\Calculator\RPN\obj\Debug\netcoreapp2.1\RPNParserTests.dll
+C:\Users\Антон\source\repos\Calculator\RPN\obj\Debug\netcoreapp2.1\RPNParserTests.pdb
