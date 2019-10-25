@@ -10,6 +10,7 @@ namespace Calculator
             var rpnParser = RPNParser.Default();
             while(true)
             {
+                //
                 Console.WriteLine("Введите выражение:");
                 var expression = Console.ReadLine();
                 
